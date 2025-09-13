@@ -22,18 +22,18 @@ Clone this repository and go to the project directory.
 ### Linux / macOS
 Make sure 'gcc' is installed.
 
-'''shell
+```shell
 gcc game.c
 ./a.out
-'''
+```
 
 ### Windows
 Install [MinGW](https://www.mingw-w64.org/) or some other GCC-based toolchain.
 
-'''shell
+```shell
 gcc game.c
 ./a.exe
-'''
+```
 
 ## Usage
 Once the program has been compiled and run, it will prompt the user for the number of rows, number of columns, number of generations, and the random density of the live cells(i.e, x such that approximately 1 in x cells should be live).
