@@ -22,7 +22,7 @@ Clone this repository and go to the project directory.
 ### Linux / macOS
 Make sure 'gcc' is installed.
 
-'''bash
+'''shell
 gcc game.c
 ./a.out
 '''
@@ -30,7 +30,7 @@ gcc game.c
 ### Windows
 Install [MinGW](https://www.mingw-w64.org/) or some other GCC-based toolchain.
 
-'''bash
+'''shell
 gcc game.c
 ./a.exe
 '''
