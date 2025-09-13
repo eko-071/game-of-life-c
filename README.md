@@ -36,4 +36,4 @@ gcc game.c
 ```
 
 ## Usage
-Once the program has been compiled and run, it will prompt the user for the number of rows, number of columns, number of generations, and the random density of the live cells(i.e, x such that approximately 1 in x cells should be live).
+Once the program has been compiled and run, it will prompt the user for the number of rows, number of columns, number of generations, and the random density of the live cells (i.e, x such that approximately 1 in x cells should be live).
